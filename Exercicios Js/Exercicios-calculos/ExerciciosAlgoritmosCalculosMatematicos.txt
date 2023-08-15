@@ -1,0 +1,17 @@
+Exercícios:
+1) Faça um algoritmo que permita o usuário digitar o seu salário atual. O programa deverá calcular e exibir o salário com acréscimo (aumento) de 30%.
+
+2) Crie um programa que lê o ano de nascimento de uma pessoa e o ano atual. Calcule e mostre qual é: a idade da pessoa em anos, a idade da pessoa em meses, a idade da 
+pessoa em dias e a idade da pessoa em semanas.
+
+3) Elaborar um programa que apresente o valor da conversão em real (R$) de um valor 
+lido em dólar (US$). O programa deve solicitar o valor da cotação do dólar.
+
+4) Construir um programa que leia um valor numérico inteiro e apresente como 
+resultado os seus valores: sucessor e antecessor.
+
+5) Elabore um algoritmo que leia um número inteiro e mostre o valor deste número elevado ao quadrado.
+
+6) Faça um algoritmo que leia as 5 notas de um aluno e calcule a média final deste aluno.
+
+7) O custo ao consumidor de um carro novo é a soma do custo de fábrica com a percentagem do distribuidor e dos impostos (aplicados ao custo de fábrica). Supondo que a percentagem do distribuidor seja de 28% e os impostos de 45%, escrever um algoritmo que leia o custo de fábrica de um carro e escreva o custo ao consumidor. 
