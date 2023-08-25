@@ -1,0 +1,14 @@
+C:\Users\User\Documents\GitHub\Projetos\Prrojetos BackEnd\Cadastro de Msc\Cadastro de Msc\bin\Debug\net6.0\Cadastro de Msc.exe
+C:\Users\User\Documents\GitHub\Projetos\Prrojetos BackEnd\Cadastro de Msc\Cadastro de Msc\bin\Debug\net6.0\Cadastro de Msc.deps.json
+C:\Users\User\Documents\GitHub\Projetos\Prrojetos BackEnd\Cadastro de Msc\Cadastro de Msc\bin\Debug\net6.0\Cadastro de Msc.runtimeconfig.json
+C:\Users\User\Documents\GitHub\Projetos\Prrojetos BackEnd\Cadastro de Msc\Cadastro de Msc\bin\Debug\net6.0\Cadastro de Msc.dll
+C:\Users\User\Documents\GitHub\Projetos\Prrojetos BackEnd\Cadastro de Msc\Cadastro de Msc\bin\Debug\net6.0\Cadastro de Msc.pdb
+C:\Users\User\Documents\GitHub\Projetos\Prrojetos BackEnd\Cadastro de Msc\Cadastro de Msc\obj\Debug\net6.0\Cadastro de Msc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\Projetos\Prrojetos BackEnd\Cadastro de Msc\Cadastro de Msc\obj\Debug\net6.0\Cadastro de Msc.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\Projetos\Prrojetos BackEnd\Cadastro de Msc\Cadastro de Msc\obj\Debug\net6.0\Cadastro de Msc.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Projetos\Prrojetos BackEnd\Cadastro de Msc\Cadastro de Msc\obj\Debug\net6.0\Cadastro de Msc.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Projetos\Prrojetos BackEnd\Cadastro de Msc\Cadastro de Msc\obj\Debug\net6.0\Cadastro de Msc.dll
+C:\Users\User\Documents\GitHub\Projetos\Prrojetos BackEnd\Cadastro de Msc\Cadastro de Msc\obj\Debug\net6.0\refint\Cadastro de Msc.dll
+C:\Users\User\Documents\GitHub\Projetos\Prrojetos BackEnd\Cadastro de Msc\Cadastro de Msc\obj\Debug\net6.0\Cadastro de Msc.pdb
+C:\Users\User\Documents\GitHub\Projetos\Prrojetos BackEnd\Cadastro de Msc\Cadastro de Msc\obj\Debug\net6.0\Cadastro de Msc.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\Projetos\Prrojetos BackEnd\Cadastro de Msc\Cadastro de Msc\obj\Debug\net6.0\ref\Cadastro de Msc.dll
