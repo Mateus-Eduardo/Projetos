@@ -1,0 +1,14 @@
+C:\Users\User\Documents\GitHub\Projetos\Prrojetos BackEnd\CadastroDeBandas\CadastroDeBandas\bin\Debug\net6.0\CadastroDeBandas.exe
+C:\Users\User\Documents\GitHub\Projetos\Prrojetos BackEnd\CadastroDeBandas\CadastroDeBandas\bin\Debug\net6.0\CadastroDeBandas.deps.json
+C:\Users\User\Documents\GitHub\Projetos\Prrojetos BackEnd\CadastroDeBandas\CadastroDeBandas\bin\Debug\net6.0\CadastroDeBandas.runtimeconfig.json
+C:\Users\User\Documents\GitHub\Projetos\Prrojetos BackEnd\CadastroDeBandas\CadastroDeBandas\bin\Debug\net6.0\CadastroDeBandas.dll
+C:\Users\User\Documents\GitHub\Projetos\Prrojetos BackEnd\CadastroDeBandas\CadastroDeBandas\bin\Debug\net6.0\CadastroDeBandas.pdb
+C:\Users\User\Documents\GitHub\Projetos\Prrojetos BackEnd\CadastroDeBandas\CadastroDeBandas\obj\Debug\net6.0\CadastroDeBandas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\Projetos\Prrojetos BackEnd\CadastroDeBandas\CadastroDeBandas\obj\Debug\net6.0\CadastroDeBandas.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\Projetos\Prrojetos BackEnd\CadastroDeBandas\CadastroDeBandas\obj\Debug\net6.0\CadastroDeBandas.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Projetos\Prrojetos BackEnd\CadastroDeBandas\CadastroDeBandas\obj\Debug\net6.0\CadastroDeBandas.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Projetos\Prrojetos BackEnd\CadastroDeBandas\CadastroDeBandas\obj\Debug\net6.0\CadastroDeBandas.dll
+C:\Users\User\Documents\GitHub\Projetos\Prrojetos BackEnd\CadastroDeBandas\CadastroDeBandas\obj\Debug\net6.0\refint\CadastroDeBandas.dll
+C:\Users\User\Documents\GitHub\Projetos\Prrojetos BackEnd\CadastroDeBandas\CadastroDeBandas\obj\Debug\net6.0\CadastroDeBandas.pdb
+C:\Users\User\Documents\GitHub\Projetos\Prrojetos BackEnd\CadastroDeBandas\CadastroDeBandas\obj\Debug\net6.0\CadastroDeBandas.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\Projetos\Prrojetos BackEnd\CadastroDeBandas\CadastroDeBandas\obj\Debug\net6.0\ref\CadastroDeBandas.dll
