@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\GitHub\\Projetos\\Prrojetos BackEnd\\CadastroDeBandas\\CadastroDeBandas\\CadastroDeBandas.csproj": {}
+    "C:\\Users\\User\\Documents\\GitHub\\Projetos\\Projetos BackEnd\\CadastroDeBandas\\CadastroDeBandas\\CadastroDeBandas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\GitHub\\Projetos\\Prrojetos BackEnd\\CadastroDeBandas\\CadastroDeBandas\\CadastroDeBandas.csproj": {
+    "C:\\Users\\User\\Documents\\GitHub\\Projetos\\Projetos BackEnd\\CadastroDeBandas\\CadastroDeBandas\\CadastroDeBandas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\Projetos\\Prrojetos BackEnd\\CadastroDeBandas\\CadastroDeBandas\\CadastroDeBandas.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\Projetos\\Projetos BackEnd\\CadastroDeBandas\\CadastroDeBandas\\CadastroDeBandas.csproj",
         "projectName": "CadastroDeBandas",
-        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\Projetos\\Prrojetos BackEnd\\CadastroDeBandas\\CadastroDeBandas\\CadastroDeBandas.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\Projetos\\Projetos BackEnd\\CadastroDeBandas\\CadastroDeBandas\\CadastroDeBandas.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\Projetos\\Prrojetos BackEnd\\CadastroDeBandas\\CadastroDeBandas\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\Projetos\\Projetos BackEnd\\CadastroDeBandas\\CadastroDeBandas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
